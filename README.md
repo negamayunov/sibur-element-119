@@ -8,7 +8,7 @@ $$
 LogP = \frac{[концентрация]_{октанол}}{[концентрация]_{вода}}
 $$
 
-Оценка решения провоилась с помощью метрики [RMSE]([RMSE](https://en.wikipedia.org/wiki/Root_mean_square_deviation)):
+Оценка решения провоилась с помощью метрики [RMSE](https://en.wikipedia.org/wiki/Root_mean_square_deviation):
 
 $$
 RMSE(y, \hat{y}) = \sqrt{\frac{1}{N}\sum_{i=1}^{N}(y_i - \hat{y}_i)^2}
